@@ -57,6 +57,7 @@ INSTALLED_APPS = [
     'crispy_forms',
     'classes',
     'exchanges',
+    'bootstrap4',
 ]
 
 MIDDLEWARE = [

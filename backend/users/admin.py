@@ -3,5 +3,5 @@ from .models import Profile, Student, DeanOffice
 
 # Register your models here.
 admin.site.register(Profile)
-admin.site.register(Student)
-admin.site.register(DeanOffice)
+# admin.site.register(Student)
+# admin.site.register(DeanOffice)
